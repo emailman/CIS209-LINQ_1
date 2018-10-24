@@ -91,16 +91,16 @@
             this.lblUniqueThings.Name = "lblUniqueThings";
             this.lblUniqueThings.Size = new System.Drawing.Size(140, 13);
             this.lblUniqueThings.TabIndex = 5;
-            this.lblUniqueThings.Text = "Number of unique things = 0";
+            this.lblUniqueThings.Text = "Number of unique colors = 0";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(193, 47);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(162, 13);
+            this.label3.Size = new System.Drawing.Size(150, 13);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Pick a color from the list of colors";
+            this.label3.Text = "Pick a color from the list below";
             // 
             // lblPickedColor
             // 
